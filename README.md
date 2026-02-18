@@ -1,39 +1,61 @@
-🚀 Jakie funkcje może mieć Zerify.lol
+🚧 Zerify.lol – Under Construction
 
-Jeśli projekt ma być podobny do Frozi.lol, to przy takiej funkcjonalności można spodziewać się:
+Zerify.lol is a new link-in-bio platform, inspired by services like frozi.lol and guns.lol.
 
-🎨 Personalizacja strony
+The project is currently in development, and the full version will be available soon.
 
-wybór motywu / stylu,
+🌐 What is Zerify.lol?
 
-własne kolory i tła,
+Zerify.lol is designed to let users create modern, customizable bio pages where they can:
 
-możliwość dodawania avatara / zdjęcia,
+🔗 Add links to social media
 
-różne układy przycisków.
+🎨 Personalize profile appearance (colors, backgrounds, themes)
 
-🔗 Linki i treści
+🖼️ Upload an avatar and write a description
 
-linki do social media,
+📊 Track link click statistics
 
-sekcje z opisami,
+⚙️ Manage their profile through a user dashboard
 
-media w treści (np. zdjęcia, krótkie filmy),
+Each user will receive a personal URL in the format:
 
-możliwość dodawania kontaktów lub maila.
+zerify.lol/username
 
-⚙️ Ustawienia
+🔥 Inspiration
 
-własna nazwa w adresie (np. zerify.lol/nick),
+Zerify.lol is being built as an alternative to platforms such as:
 
-statystyki klikalności linków,
+frozi.lol – a minimalist bio platform focused on clean design
 
-możliwość edycji w panelu użytkownika.
+guns.lol – dynamic profile pages with visual effects
 
-🔐 Konta użytkowników
+The goal of Zerify is to combine modern aesthetics, performance, and deeper customization options.
 
-rejestracja i logowanie,
+🛠️ Project Status
 
-dashboard do zarządzania stroną,
+🚧 Zerify.lol is currently in active development.
 
-zapisy zmian i wersje.
+We are testing:
+
+User account system
+
+Profile editing dashboard
+
+Customization features
+
+Performance optimization
+
+📅 What’s Next?
+
+Upcoming plans include:
+
+Launching a beta version
+
+Releasing initial themes
+
+Adding basic analytics
+
+Introducing premium features
+
+Stay tuned — Zerify.lol is coming soon. 🚀
